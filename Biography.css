@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(193, 241, 225);
+}
+h1{
+    color:rgb(36, 34, 38);
+    text-align:center;
+    text-decoration:underline;
+}
+p{
+    font-size:26px;
+    font-family:Arial;
+}
+.quote{
+    font-weight:bold;
+    font-style:italic;
+}

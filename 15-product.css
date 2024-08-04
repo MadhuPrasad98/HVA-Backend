@@ -1,0 +1,28 @@
+h3{
+    font-size: 24px;
+    font-weight:bold;
+    text-align:center;
+    
+}
+.main-div{
+    height:700px;
+    width:400px;
+    background-color: rgb(119, 135, 149);
+}
+img{
+    width:400px;
+    height:400px;
+    background-color: black;
+}
+p{
+    font-style:italic;
+    text-align:justify;
+    margin:10px 10px;
+    
+}
+.description{
+    background-color: rgb(164, 237, 212);
+    border: 2px dotted rgb(119, 135, 149);
+    padding: 2px 5px;
+    line-height: 1.8;
+}

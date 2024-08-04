@@ -1,0 +1,14 @@
+h2{
+    text-decoration:underline;
+    text-align: center;
+}
+p{
+    line-height:1.6;
+    color:black;
+    margin-left:10px;
+}
+div{
+    background-color: rgb(168, 216, 200);
+    border-radius:20px;
+    font-family:Times New Roman;
+}

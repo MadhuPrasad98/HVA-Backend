@@ -1,0 +1,60 @@
+ul{
+    list-style-type:none;
+    
+}
+.nav{
+    background-color:rgb(53, 53, 80);
+    border: 5px solid black;
+    padding:5px;
+   
+}
+#about{
+    padding:2px;
+    text-decoration: none;
+    background-color: rgb(61, 42, 42);
+    border:2px solid black;
+    display:inline-block;
+    margin:5px;
+    
+}
+#home{
+    padding:2px;
+    text-decoration: none;
+    background-color: rgb(61, 42, 42);
+    border:2px solid black;
+    display:inline-block;
+    margin:5px;
+    
+}
+#services{
+    padding:2px;
+    text-decoration: none;
+    background-color: rgb(61, 42, 42);
+    border:2px solid black;
+    display:inline-block;
+    margin:5px;
+    
+}
+#contect{
+    padding:2px;
+    text-decoration: none;
+    background-color: rgb(61, 42, 42);
+    border:2px solid black;
+    display:inline-block;
+    margin:5px;
+    
+}
+.decorative-list li::before{
+    content:"*";
+    color:rgb(243, 186, 111);
+    font-size:20px;
+    margin:10px;
+}
+.nav >ul{
+    background-color: rgb(151, 147, 147);
+    border: 1px dotted white;
+}
+li + ul{
+    background-color: blue;
+    border:2px solid red
+}

@@ -1,0 +1,36 @@
+.product-card{
+    border: 2px solid #333;
+    padding: 20px;
+    margin:20px auto;
+    width: 300px;
+    height: auto;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    background-color: rgba(245, 252, 252, 0.749);
+    
+}
+.product-card p{
+    padding: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+   
+}
+img{
+    width: 250px;
+    border-radius: 50px;
+    
+}
+h2{
+    font-size: 24px;
+    font-weight: bold;
+}
+span{
+    font-size: 20px;
+    color: #ff0000;
+}
+button{
+    background-color: rgb(139, 139, 191);
+    border: 2px solid blue;
+    padding: 5px;
+    font-weight: bold;
+}

@@ -1,0 +1,24 @@
+.product-card{
+    background-color:rgb(248, 246, 248);
+    width:500px;
+     
+}
+.product-card h3{
+    font-size:30px;
+    text-align: center;
+}
+.product-card p{
+    line-height:20px;
+}
+img{
+    width:500px;
+    height:400px;
+}
+button[type="button"]{
+    background-color:rgb(188, 244, 226);
+    padding:10px;
+}
+.features li:hover{
+    background-color:aquamarine;
+    width:500px;
+}
