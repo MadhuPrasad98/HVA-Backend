@@ -1,4 +1,4 @@
-  const input = require("readline-sync");
+const input = require("readline-sync");
 function greet(name){
     // return "Hello"+" "+name;
     // Template literal techqunic

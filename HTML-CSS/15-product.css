@@ -8,6 +8,7 @@ h3{
     height:700px;
     width:400px;
     background-color: rgb(119, 135, 149);
+    border: 2px solid red;
 }
 img{
     width:400px;
